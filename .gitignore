@@ -1,0 +1,43 @@
+# Java compiled files
+
+*.class
+
+# Maven
+
+target/
+
+# Eclipse
+
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+
+.idea/
+*.iml
+
+# VS Code
+
+.vscode/
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# Test reports
+
+test-output/
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+
+# Selenium screenshots generated during execution
+
+screenshots/*.tmp
