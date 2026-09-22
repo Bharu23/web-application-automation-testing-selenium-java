@@ -1,0 +1,67 @@
+Web Application Automation Testing – Selenium with Java
+Project Overview
+This is a self-directed web application automation testing project developed using Selenium WebDriver and Java.
+The project focuses on automating important web application scenarios and demonstrates practical knowledge of Selenium WebDriver, Java programming, web element identification, XPath, explicit waits, TestNG, and Page Object Model.
+Objectives
+•	Automate common web application workflows
+•	Practice Selenium WebDriver with Java
+•	Implement reliable element identification and synchronization
+•	Apply Java OOP concepts in test automation
+•	Develop maintainable automation scripts
+•	Document test scenarios, test cases, and defects
+•	Maintain the project using Git and GitHub
+Technologies Used
+•	Java
+•	Selenium WebDriver
+•	TestNG
+•	Maven
+•	Git
+•	GitHub
+•	Eclipse IDE
+Testing Scope
+The automation project covers scenarios such as:
+•	Login
+•	Logout
+•	Navigation
+•	Search
+•	Form validation
+•	Web element interaction
+•	Negative test scenarios
+Automation Concepts
+•	Selenium WebDriver
+•	WebDriver locators
+•	XPath
+•	CSS Selectors
+•	Explicit Waits
+•	TestNG
+•	Assertions
+•	Page Object Model
+•	Java OOP concepts
+•	Reusable methods
+•	Screenshot capture
+Project Structure
+src/
+└── test/
+    └── java/
+        ├── tests/
+        ├── pages/
+        └── utilities/
+
+test-data/
+screenshots/
+test-documentation/
+
+pom.xml
+README.md
+.gitignore
+Test Documentation
+The project will include:
+•	Test Scenarios
+•	Test Cases
+•	Requirement Traceability Matrix
+•	Bug Reports
+•	Test Execution Results
+Project Status
+🚧 Currently under development.
+The automation framework and test scenarios will be added progressively.
+
